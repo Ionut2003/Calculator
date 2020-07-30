@@ -1,0 +1,75 @@
+.canvasForButtons {
+	position: relative;
+	margin-left: auto;
+	margin-right: auto;
+	border: 5px solid;
+	border-top: 2.5px solid;
+	border-color: darkred;
+	height: 300px;
+	width: 201px;
+}
+.inputCanvasForButtons {
+	position: relative;
+	margin-left: auto;
+	margin-right: auto;
+	border: 5px solid;
+	border-bottom: 2.5px solid;
+	border-color: darkred;
+	height: 50px;
+	width: 201px;
+	color: white;
+	background-color: darkgrey;
+	display: table;
+	text-align: right;
+	vertical-align: text-bottom;
+	
+}
+.b{
+	border: 1px solid white;
+	position: relative;
+	height: 50px;
+	width: 32%;
+	color: white;
+	background-color: black;
+	font-size: 25px;
+}
+.operators{
+	border: 1px solid white;
+	position: relative;
+	height: 50px;
+	width: 32%;
+	color: white;
+	background-color: orange;
+	font-size: 25px;
+}
+.clearButton{
+	border: 1px solid white;
+	position: relative;
+	height: 50px;
+	width: 66%;
+	color: white;
+	background-color: red;
+	font-size: 25px;
+}
+.pointButton{
+	border: 1px solid white;
+	position: relative;
+	height: 50px;
+	width: 32%;
+	color: white;
+	background-color: orange;
+	font-size: 25px;
+}
+body{
+	background-color: indigo;
+}
+.text{
+	border: 1px solid;
+	position: relative;
+	width: 201px;
+	height: 50px;
+	font-size: 25px;
+	display: table-cell;
+	vertical-align: bottom;
+
+}
